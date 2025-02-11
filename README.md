@@ -7,3 +7,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojiwon123&show_icons=true&theme=vue&count_private=true&hide_border=true)
 
 📧 **이메일**: dev.rojiwon@gmail.com
+
+[이력서 보기](https://www.figma.com/design/KpwD296sFjbYlxZnUVe01v/%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=8DRnoVYcEjio3AAq-1) 
